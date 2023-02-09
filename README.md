@@ -5,4 +5,4 @@
 
 Lihat hasil melalui GitHub Pages
 
-Klik di link ini : 
+Klik di link ini : https://ivenlagowan.github.io/sacode-coding-dasar-i-tugas-day04-/
